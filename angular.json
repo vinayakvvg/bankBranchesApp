@@ -134,5 +134,8 @@
       }
     }
   },
-  "defaultProject": "bankBranchesApp"
+  "defaultProject": "bankBranchesApp",
+  "cli": {
+    "analytics": "b4b7c81c-942b-4567-9e80-34ff6fb7cc03"
+  }
 }

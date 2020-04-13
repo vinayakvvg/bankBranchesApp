@@ -1,7 +1,7 @@
 import { Component, OnInit, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { BranchDetailsService } from '../../services/branch-details.service'
-import { MatPaginator, MatTableDataSource } from '@angular/material';
-import { NgForm } from '@angular/forms';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatTableDataSource } from '@angular/material/table';
 
 @Component({
   selector: 'app-branches',
